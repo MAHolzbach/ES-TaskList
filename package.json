@@ -1,0 +1,10 @@
+{
+  "name": "TaskList",
+  "version": "1.0.0",
+  "description": "To do list for study purposes",
+  "main": "index.html",
+  "repository": "https://github.com/MAHolzbach/ES-TaskList.git",
+  "author": "Mike Holzbach <maholzbach@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
